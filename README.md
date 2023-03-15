@@ -17,7 +17,6 @@ https://github.com/heapwolf/prompt-sync
 ![alt text](./screenshot.png)
 
 ## ROOM FOR IMPROVEMENT
-### Prompting the player for input on the dimensions of the field
 - Prompt the user to input the dimension and difficulty for the random field instead of determining these in the code.
 - Handling moves in a "circle": currently when the player moves back-and-forth between two fields, the previously visited field turns back into a "field" character. However, this would also happen if they just cross their previous path.
 - Making sure that there is always a possible way to the hat
