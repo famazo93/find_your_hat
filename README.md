@@ -14,7 +14,7 @@ https://github.com/heapwolf/prompt-sync
 2. The Field class includes a method for generating a randomized field based on dimension inputs.
 3. The randomized field also contains a certain number of "holes" - the player can determine the probability that any given field is a hole and thus adjust the difficulty of the game.
 
-![alt text](image.jpg)
+![alt text](./screenshot.png)
 
 ## ROOM FOR IMPROVEMENT
 ### Prompting the player for input on the dimensions of the field
